@@ -1,0 +1,3 @@
+1. SQL Injection: The `login` function in `example_code.py` is vulnerable to SQL Injection.
+2. Information Leakage: Application is running with `debug=True` mode.
+3. Insecure Password Handling: Passwords are stored in plain text.
