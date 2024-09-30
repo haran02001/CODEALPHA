@@ -1,5 +1,5 @@
 
-Here's a `README.md` for a secure coding review project:
+Here's a `README.md` for a secure Cyber Security project:
 ---
 
 Here's a concise `README.md` for your basic network sniffer project using Python:
